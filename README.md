@@ -1,1 +1,1 @@
-https://agonizingfool.github.io/avalon-script/
+https://code-lifter.github.io/avalon-script/
